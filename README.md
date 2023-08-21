@@ -13,7 +13,9 @@
 <h3 align="left">💬 Ask me about anything, I am happy to help :smile:</h3>
 
 <!-- 🎯 Current Focus -->
-- 🔭 Presently, I'm delving into the world of **Data Analysis**, with a strong emphasis on **Data Cleaning, Precise Manipulation, and Informative Visualization**. My aim is to extract meaningful insights from complex datasets and transform them into actionable recommendations.
+- 🔭 Presently, I'm delving into the world of **Data Analysis**, with a strong emphasis on **Data Cleaning, Precise Manipulation, and Informative Visualization**.
+  
+-  My aim is to extract meaningful insights from complex datasets and transform them into actionable recommendations.
 
 
 <!-- 🌱 Learning Path -->
