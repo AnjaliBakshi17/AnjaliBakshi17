@@ -1,6 +1,6 @@
 <!-- Header Image -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Header Image" width="600" height="450">
+  <img src="https://camo.githubusercontent.com/91098cd031ebd5bb413a2a95b5c936fed90100c1370ec1156871620c443bce9c/68747470733a2f2f7777772e636f6e677275656e74736f66742e636f6d2f496d616765732f62692f62692d616e792d646174612d616e696d6174696f6e2e676966" alt="Header Image" width="600" height="450">
 </p>
 
 <!-- Introduction -->
@@ -8,7 +8,7 @@
 <h3 align="center">Turning Data into Insights to Drive Informed Decisions</h3>
 
 <!-- Animated GIF -->
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/30c5ffe56bf81306c9af85f60b1e71240939f0abf1b80541dfce8a9dd28cdde4/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f646174612d736369656e63652d322e676966">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/78c5707b2fffc71fe2a0faf29d4bd5169a6c6131247a4c61ea01cd19744e8313/68747470733a2f2f63646e622e61727473746174696f6e2e636f6d2f702f6173736574732f696d616765732f696d616765732f3032382f3939312f3939392f6f726967696e616c2f616e6e612d68617672796c79756b682d2e6769663f31353936313235313132">
 
 <h3 align="left">💬 Ask me about anything, I am happy to help :smile:</h3>
 
